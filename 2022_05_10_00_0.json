@@ -1,0 +1,1 @@
+[{"Id":1269,"Title":"","Value":"2022-05-09日更新\n1. 新增接口访问检测，如果一个ip在10秒内连续访问接口十次（不严谨的说法），该ip将会进入冷却期，期间将无法访问所有岛民岛接口，以预防拒绝服务攻击，正常访问基本触发不到|∀ﾟ","FollowId":0,"PlateId":2,"Status":0,"ReplyArr":"[]","UserId":10,"Time":1652111629,"MediaUrl":"[]","ReplyCount":1,"TopStatus":0,"LastReplyTime":1652114800,"SageAddId":"[]","SageSubId":"[]","Name":"R5RCGeZ"}]
